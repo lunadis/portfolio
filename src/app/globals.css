@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
 :root {
   --max-width: 1100px;
   --border-radius: 12px;
@@ -26,7 +28,8 @@ body {
 
 h1 {
   font-weight: "900";
-  font-size: 48px;
+  font-size: 56px;
+  font-family: "Bebas Neue", sans-serif;
 }
 
 h1 > p {
